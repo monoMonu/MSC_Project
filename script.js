@@ -3,6 +3,7 @@ alert(`This is a Profile card design, designs are pure CSS.
 
 - Slider is to control the background opacity
 - Click the three dots above the profile pic to toggle visibility of slider
+- Click Connect to connect in LinkedIn
 `);
 
 const slider = document.querySelector("#opaAdj>input");
