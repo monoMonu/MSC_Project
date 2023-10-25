@@ -18,7 +18,7 @@ slider.addEventListener("input",()=>{
 const opaAdj = document.querySelector("#opaAdj");
 const nav = document.querySelector("#col_nav");
 
-nav.addEventListener("clicl",()=>{
+nav.addEventListener("click",()=>{
    if(opaAdj.style.opacity==1){
       opaAdj.style.opacity = 0;
       opaAdj.style.marginBottom = "-36px";
