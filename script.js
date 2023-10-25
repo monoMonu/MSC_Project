@@ -34,4 +34,3 @@ const toggleSlider = ()=>{
 }
 
 nav.addEventListener("click",toggleSlider);
-nav.addEventListener("mouseover",toggleSlider);
